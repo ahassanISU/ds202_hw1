@@ -1,28 +1,19 @@
 ---
-title: "Lab 1 "
-author: "Ahmed Hassan"
-date: "8/30/2020"
+title: "Partner RMD"
 output: html_document
 ---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Name and Username: Joel Martin joelmar0
 
+1)
+Ahmed uploaded his Homework 1 to his repository.
 
-What did the Owner do in the most recent commit? What is the commit ID?
-```
-It appears that my parter simply editted the HW1 template with his answers for the questions. 
-```
+2)
+I am unable to knit as I get an error that it cannot find a jpg file that is not in the folder but other than that it should have knit just fine.
 
-Knit the Owner’s hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?
-```
-Did not encounter any errors when knitting!
-```
-
-Also include an error/difficulty you encountered, or a tip for making Git/GitHub easier.
-```
-The biggest challege I had was finding the path for the for the owner's get folder after I cloned it.
-
-```
-
+3)
+The only difficulty I found was getting to the folder where the repository was but using ls is a great way to see what folders are in the folder you are in.
